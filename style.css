@@ -1,7 +1,14 @@
 h1{
-    background: grey;
+    /* background: grey; */
+    color: antiquewhite;
 }
 #links{
-    background: rgba(18, 181, 100, 0.5);
+    background: rgb(53, 134, 134);
+    color: antiquewhite;
+}
+body{
+    background: rgb(44, 40, 40);
+}
+a{
     color: antiquewhite;
 }
