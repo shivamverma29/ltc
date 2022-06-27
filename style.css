@@ -1,14 +1,37 @@
-h1{
+.h{
     /* background: grey; */
     color: antiquewhite;
+    position: relative;
+    margin-left: 550px;
+    margin-top: 35px;
+    padding: 5px;
+    margin-right: 550px;
+    margin-bottom: 35px;
+    /* border: 5px;
+    border-color: antiquewhite; */
 }
-#links{
-    background: rgb(53, 134, 134);
+nav{
+    /* margin-top: 400px; */
+    /* background: rgb(53, 134, 134); */
     color: antiquewhite;
+    /* background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
 }
 body{
     background: rgb(44, 40, 40);
+    background-image: url('bg10.jpg');
+    background-size: 1530px;
 }
 a{
     color: antiquewhite;
+}
+.bg{
+    /* background-image: url('bg.jpg');
+    background-repeat: no-repeat; */
+    /* margin-left: 200px; */
+}
+*{
+    margin: 0;
+    padding: 0;
 }
