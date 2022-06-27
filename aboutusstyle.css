@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: antiquewhite;
+    text-align: center;
+}
+body{
+    background: rgb(51, 39, 39);
+}
+ol{
+    margin-left: 30px;
+    color: antiquewhite;
+}
+.content{
+    color: antiquewhite;
+    padding: 10px;
+}
+body{
+    background-image: url('Farm-10-R-3.jpg');
+    background-repeat: no-repeat;
+    background-size: 1536px;
+}
+nav{
+    margin-left: 920px;
+    color: antiquewhite;
+    margin-top: 10px;
+    padding: 4px;
+    /* background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+a{
+    text-decoration: none;
+    padding:4px;
+    color: antiquewhite;
+}
