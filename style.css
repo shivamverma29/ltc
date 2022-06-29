@@ -24,6 +24,7 @@ body{
     background: rgb(44, 40, 40);
     background-image: url('bg10.jpg');
     background-size: 1530px;
+    background-repeat: no-repeat;
 }
 a{
     text-decoration: none;
@@ -38,4 +39,11 @@ a{
 *{
     margin: 0;
     padding: 0;
+}
+.social{
+    margin-top: 580px;
+    text-align: center;
+}
+img.social{
+    padding: 25px;
 }
